@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["layout/cita.scss"],"names":[],"mappings":"AAAA,SACI,eACA,aAEA,sBACI,kBAKR,SACI,cAEJ,SACI","file":"layout/cita.css","sourcesContent":[".seccion {\n    padding: 5rem 0;\n    display: none;\n\n    .text-center {\n        text-align: center;\n    }\n\n}\n\n.mostrar {\n    display: block;\n}\n.ocultar {\n    display: none;\n}"]}
